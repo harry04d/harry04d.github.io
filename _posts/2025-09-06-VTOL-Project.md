@@ -1,6 +1,7 @@
 ---
 title: "Agricultural Pesticide Spraying VTOL"
 date: 2025-09-06
+permalink: /agricultural-vtol/
 categories: [projects]
 tags: [VTOL, UAV, agriculture]
 excerpt: "A lightweight autonomous VTOL glider designed for agricultural spraying, combining efficiency, low cost, and innovative engineering design."
