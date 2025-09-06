@@ -9,7 +9,7 @@ excerpt: "A high-payload quadcopter designed for on-farm pesticide spraying, opt
 ---
 
 # Abstract 
-The Heavy-Lift Agricultural Quadcopter was developed as a prototype UAV to address the challenges of endurance and payload capacity in agricultural spraying. Through this project, I gained practical experience in UAV systems engineering, structural design under heavy loads, and cost-driven innovation. By working on a platform capable of lifting a 40 kg spray payload while running on a tethered ground power supply, I was able to deepen my understanding of the trade-offs between endurance, efficiency, and affordability in UAV design.---
+The Heavy-Lift Agricultural Quadcopter was developed as a prototype UAV to address the challenges of endurance and payload capacity in agricultural spraying. Through this project, I gained practical experience in UAV systems engineering, structural design under heavy loads, and cost-driven innovation. By working on a platform capable of lifting a 40 kg spray payload while running on a tethered ground power supply, I was able to deepen my understanding of the trade-offs between endurance, efficiency, and affordability in UAV design.
 
 # Project Objectives
 From the outset, I set out to:
