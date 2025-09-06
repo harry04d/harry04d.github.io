@@ -15,10 +15,13 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Australia/Sydney"
 
 include:
   - _pages
+
+paginate: 5
+paginate_path: "/blog/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -54,30 +57,36 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/harrison-deacon-11a0ba210/"
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+# Collections
+collections:
+projects:
+output: true
+permalink: /projects/:name/
 
 defaults:
-  # _posts
   - scope:
       path: ""
-      type: posts
+      type: "pages"
     values:
       layout: single
       author_profile: true
+      toc: true
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      toc: true
       read_time: true
-      comments: true
-      share: true
-      related: true
+      comments: false
+  - scope:
+      path: ""
+      type: "projects"
+      values:
+      layout: single
+      author_profile: true
+      toc: true
   # _pages
   - scope:
       path: "_pages"
