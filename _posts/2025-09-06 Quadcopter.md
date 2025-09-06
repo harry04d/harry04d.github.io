@@ -1,7 +1,6 @@
 ---
 title: "Pesticide Spraying Agricultural Quadcopter"
 permalink: /agricultural-quadcopter/
-layout: single
 date: 2025-09-06
 categories: [projects]
 tags: [Quadcopter, UAV, Agriculture]
@@ -9,7 +8,7 @@ excerpt: "A high-payload quadcopter designed for on-farm pesticide spraying, opt
 ---
 
 # Abstract 
-The Heavy-Lift Agricultural Quadcopter was developed as a prototype UAV to address the challenges of endurance and payload capacity in agricultural spraying. Through this project, I gained practical experience in UAV systems engineering, structural design under heavy loads, and cost-driven innovation. By working on a platform capable of lifting a 40 kg spray payload while running on a tethered ground power supply, I was able to deepen my understanding of the trade-offs between endurance, efficiency, and affordability in UAV design.
+The **Heavy-Lift Agricultural Quadcopter** was developed as a prototype UAV to address the challenges of endurance and payload capacity in agricultural spraying. Through this project, I gained practical experience in UAV systems engineering, structural design under heavy loads, and cost-driven innovation. By working on a platform capable of lifting a 40 kg spray payload while running on a tethered ground power supply, I was able to deepen my understanding of the trade-offs between endurance, efficiency, and affordability in UAV design.
 
 # Project Objectives
 From the outset, I set out to:
@@ -31,6 +30,6 @@ Learning to configure a flight controller to use remote control, from both a RC 
 
 # Key Lessons 
 
-- Weight to flight-time ratio - every design choice I made costed me flight time, payload or another factor, thus required me to reconsider my priorities with every decision
-- System Engineering - I developed a broader understanding of how structural, electrical and software components interact. 
-- Practical Engineering - By optimizing for affordability and repairability, I adapted my design to real world constraints and attempted to solve real world problems 
+- **Weight to flight-time ratio** - every design choice I made costed me flight time, payload or another factor, thus required me to reconsider my priorities with every decision
+- **System Engineering** - I developed a broader understanding of how structural, electrical and software components interact. 
+- **Practical Engineering** - By optimizing for affordability and repairability, I adapted my design to real world constraints and attempted to solve real world problems 
