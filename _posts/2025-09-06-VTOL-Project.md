@@ -12,6 +12,6 @@ This project involved running a CFD simulation on a wing section to evaluate lif
 
 Here’s an image of the simulation results:
 
-![VTOL Photo](../assets/images/vtol.jpg)
+![VTOL Photo](../assets/images/VTOL.jpg)
 
 The results showed improved performance at low Reynolds numbers.
