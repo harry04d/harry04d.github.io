@@ -48,7 +48,7 @@ plugins:
 
 author:
   name: "Harrison Deacon"
-  avatar: "/assets/images/avatar.jpg"
+  avatar: "/assets/images/bio-photo.jpg"
   bio: "Mechanical/Aerospace Engineering student. Passionate about CAD, FEA, and flight testing."
   location: "Sydney, AU"
   links:
