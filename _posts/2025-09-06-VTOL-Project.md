@@ -1,5 +1,5 @@
 ---
-title: "My First Project Post"
+title: "Agricultural Pesticide Spraying VTOL"
 date: 2025-09-06
 categories: [projects]
 tags: [VTOL, UAV, agriculture]
