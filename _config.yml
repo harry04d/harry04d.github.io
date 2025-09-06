@@ -7,7 +7,7 @@ description: "Engineering student passionate about aerospace, design, and analys
 url: "https://harry04d.github.io"
 baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "air"
 search: true
 
 # Build settings
@@ -58,7 +58,10 @@ author:
     - label: LinkedIn
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/harrison-deacon-11a0ba210/"
-
+    - label: "CV"
+      icon: "fas fa-file-pdf"
+      url: "/assets/docs/cv.pdf"
+      
 # Collections
 collections:
 projects:
