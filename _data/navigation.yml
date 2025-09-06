@@ -1,6 +1,9 @@
 main:
   - title: "Projects"
     url: /projects/
+    children:
+      - title: "Agricultural Pesticide Spraying VTOL"
+        url: /agricultural-vtol/
   - title: "Categories"
     url: /categories/
   - title: "About"
