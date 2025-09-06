@@ -43,17 +43,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Your Name"
+  name: "Harrison Deacon"
   avatar: "/assets/images/avatar.jpg"
   bio: "Australian engineer — robotics, embedded, data."
   location: "Sydney, AU"
   links:
     - label: Email
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:you@example.com"
-    - label: GitHub
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/YOUR-USERNAME"
+      url: "harrydeacon2004@gmail.com"
     - label: LinkedIn
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/YOUR-USERNAME/"
