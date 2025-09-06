@@ -1,7 +1,9 @@
-title: "Harrison Deacon — Engineering Portfolio"
-email: harrydeacon2004@gmail.com
-description: >-
-"Mechanical/Mechatronics engineer focused on automation, controls, and prototyping."
+title: "My Engineering Portfolio"
+subtitle: "Engineering Projects and Experience"
+name: "Your Full Name"
+email: "your@email.com"
+description: "Engineering student passionate about aerospace, design, and analysis."
+
 url: "https://harry04d.github.io"
 baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
