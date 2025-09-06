@@ -1,7 +1,7 @@
-title: "My Engineering Portfolio"
+title: "Harrison Deacon - Engineering Portfolio"
 subtitle: "Engineering Projects and Experience"
-name: "Your Full Name"
-email: "your@email.com"
+name: "Harrison Deacon"
+email: "harrydeacon2004@email.com"
 description: "Engineering student passionate about aerospace, design, and analysis."
 
 url: "https://harry04d.github.io"
@@ -49,7 +49,7 @@ plugins:
 author:
   name: "Harrison Deacon"
   avatar: "/assets/images/avatar.jpg"
-  bio: "Australian engineer — robotics, embedded, data."
+  bio: "Mechanical/Aerospace Engineering student. Passionate about CAD, FEA, and flight testing."
   location: "Sydney, AU"
   links:
     - label: Email
