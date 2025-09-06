@@ -7,7 +7,7 @@ description: "Engineering student passionate about aerospace, design, and analys
 url: "https://harry04d.github.io"
 baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
