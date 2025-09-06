@@ -1,5 +1,6 @@
 ---
 title: "Agricultural Pesticide Spraying VTOL"
+permalink: /agricultural-vtol/
 date: 2025-09-06
 categories: [projects]
 tags: [VTOL, UAV, agriculture]
