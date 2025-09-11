@@ -9,3 +9,5 @@ Here are some featured projects:
 
 - [Agricultural Pesticide Spraying VTOL](/agricultural-vtol/)
 - [Pesticide Spraying Agricultural Quadcopter](/agricultural-quadcopter/)
+- [Hydrogen Generator](/hydrogen-generator/)
+- [Aerodynamic Wing Design](/wing-design/)
