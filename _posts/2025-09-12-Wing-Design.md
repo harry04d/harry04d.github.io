@@ -1,10 +1,10 @@
 ---
-title: "Wing Design Report"
-permalink: /projects/wing-design/
-layout: single
-author_profile: true
-toc: true
-classes: wide
+title: "Wing Design"
+permalink: /wing-design/
+date: 2025-09-06
+categories: [projects]
+tags: [VTOL, UAV, Aerodynamic Analysis]
+excerpt: "A design for a glider wing for a lightweight VTOL, the wing is designed to ensure distance travelled and weight carrying requirements."
 ---
 
 # Wing Design Report  
