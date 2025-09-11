@@ -26,6 +26,8 @@ The airfoil requirements were defined as follows:
 
 Based on these design criteria, the **Selig S1123** airfoil was selected. This airfoil provides a favourable lift-to-drag ratio, strong performance in low-Reynolds regimes, and a stall margin suitable for agricultural UAV use.  
 
+![Selig S1123 Airfoil Data Charts](/assets/images/Selig_Graphs.png)
+
 ---
 
 ## 3. Glide Ratio and Angle of Attack Analysis  
